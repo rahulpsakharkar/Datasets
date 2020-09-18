@@ -1,0 +1,20 @@
+<bookstore shelf="New Arrivals">
+  <book category="SPIRITUALITY">
+    <title lang="en">Beyond the Mind</title>
+    <author>David Frawley</author>
+    <year>1992</year>
+    <price>300.00</price>
+  </book>
+  <book category="BUSINESS">
+    <title lang="en">You Can Win</title>
+    <author>Shiv Khera</author>
+    <year>1998</year>
+    <price>244.00</price>
+  </book>
+  <book category="TECHNOLOGY">
+    <title lang="en">Python Data Science Handbook</title>
+    <author>Jake VanderPlas</author>
+    <year>2016</year>
+    <price>1250.00</price>
+  </book>
+</bookstore>
